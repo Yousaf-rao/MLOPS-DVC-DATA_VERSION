@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+gir # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -41,3 +41,4 @@ venv.bak/
 
 # Project specific
 /data/
+/data
